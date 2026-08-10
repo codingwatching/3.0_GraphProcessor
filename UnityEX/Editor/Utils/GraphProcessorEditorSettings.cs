@@ -1,6 +1,6 @@
 ﻿#if UNITY_EDITOR
 using System.Runtime.CompilerServices;
-using Atom.UnityEditors;
+using Atom.Unity;
 
 namespace Atom.GraphProcessor.Editors
 {
